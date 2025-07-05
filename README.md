@@ -1,6 +1,6 @@
 # Generador de QR y Código de barras
 
-_Aplicación web para generar códigos de barra y QR_
+_Script para generar códigos de barra y QR_
 
 ## Comenzando 🚀
 
@@ -78,8 +78,10 @@ _De esta forma ya tenemos en entorno virtual preparado para que nuestra aplicaci
 
 _Puesta en marcha de la aplicación_
 
+_Pon los datos en el fichero "info.txt" para generar con esa información_
+
 ```
-python manage.py runserver
+python qrAndBrCode.py
 ```
 
 
